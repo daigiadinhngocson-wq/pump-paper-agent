@@ -1,6 +1,6 @@
 telegram:
-  bot_token: " 8182763144:AAGjGMnSAYQv37gflxzn8fZEN9DTQ91Z3XI   "
-  chat_id: "-5024883637"
+  bot_token:  "PUT_YOUR_BOT_TOKEN"
+  chat_id:   "PUT_YOUR_CHAT_ID"
 
 solana:
   ws_url: "wss://api.mainnet-beta.solana.com/"
