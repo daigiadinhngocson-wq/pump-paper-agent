@@ -1,0 +1,20 @@
+telegram:
+  bot_token: " 8182763144:AAGjGMnSAYQv37gflxzn8fZEN9DTQ91Z3XI   "
+  chat_id: "-5024883637"
+
+solana:
+  ws_url: "wss://api.mainnet-beta.solana.com/"
+  pumpfun_program_id: "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P"
+
+strategy:
+  min_buy_wallets_60s: 50
+  sl_pct: 10
+  tp1_pct: 25
+  tp2_pct: 50
+  max_hold_seconds: 180
+
+report:
+  timezone: "Asia/Bangkok"
+  times:
+    - "09:00"
+    - "21:00"
